@@ -1,0 +1,19 @@
+{
+  "name": "testtravis",
+  "version": "1.0.0",
+  "description": "配置travis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fighterN1/testTravis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fighterN1/testTravis/issues"
+  },
+  "homepage": "https://github.com/fighterN1/testTravis#readme"
+}
